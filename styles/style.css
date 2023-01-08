@@ -111,6 +111,7 @@ li{
     background: #151414;
     justify-content: space-around;
     height: 577px;
+    margin-top: 65px;
 }
 .icons{
     display: flex;
@@ -123,7 +124,7 @@ li{
     font-weight: 700;
     font-size: 45px;
     color: #FFFFFF;
-    padding-top: 130px;
+    padding-top: 100px;
 }
 .last-para{
     font-weight: 400;
@@ -134,7 +135,7 @@ li{
     font-weight: 600;
     font-size: 25px;
     color: #FFFFFF;
-    padding-top: 140px;
+    padding-top: 110px;
 }
 .sub{
     padding: 20px 36px;
