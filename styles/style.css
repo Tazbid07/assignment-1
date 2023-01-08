@@ -55,3 +55,24 @@ li{
     color: #444343;
     padding-bottom: 15px;
 }
+.third-title{
+    font-weight: 700;
+    font-size: 40px; 
+    text-align: center;
+    padding-bottom: 10px;
+    padding-top: 50px;
+}
+.item-holder{
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+}
+.item-description{
+    font-weight: 700;
+    font-size: 30px;
+}
+.add-on{
+    font-weight: 500;
+    font-size: 25px;
+    color: #737272;
+}
