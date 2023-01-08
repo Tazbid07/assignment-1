@@ -83,6 +83,7 @@ li{
     height: 300px;
     border-radius: 8px;
     margin: auto;
+    padding-bottom: 70px;
 }
 .motivation{
     font-weight: 700;
