@@ -76,3 +76,82 @@ li{
     font-size: 25px;
     color: #737272;
 }
+.gradient{
+    background-image: url(../images/gradient2.png),url(../images/watch.png);
+    background-repeat: no-repeat;
+    width: 1140px;
+    height: 300px;
+    border-radius: 8px;
+    margin: auto;
+}
+.motivation{
+    font-weight: 700;
+    font-size: 40px;
+    color: #FFFFFF;
+    padding-top: 60px;
+    padding-left: 64px;
+}
+.last-button{
+    padding: 20px 36px;
+    color: #F15B22;
+    font-weight: 600;
+    font-size: 20px;
+    background: white;  
+    border-radius: 5px;
+    border: 0;
+}
+.move{
+    padding-left: 64px;
+}
+.footer{
+    display: flex;
+    background: #151414;
+    justify-content: space-around;
+    height: 577px;
+}
+.icons{
+    display: flex;
+    text-decoration: none;
+    list-style: none;
+    gap: 10px;
+    padding-left: 10px;
+}
+.future{
+    font-weight: 700;
+    font-size: 45px;
+    color: #FFFFFF;
+    padding-top: 130px;
+}
+.last-para{
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+}
+.subscribe{
+    font-weight: 600;
+    font-size: 25px;
+    color: #FFFFFF;
+    padding-top: 140px;
+}
+.sub{
+    padding: 20px 36px;
+    color: #F15B22;
+    font-weight: 600;
+    font-size: 20px;
+    background: white;  
+    border-radius: 5px;
+    border: 0;
+}
+.justify{
+    padding-bottom: 20px;
+}
+.email{
+    font-weight: 400;
+    font-size: 18px;
+    color: #F3F3F3;
+    width: 325px;
+    height: 64px;
+    padding:22px10px;
+    border: 1px solid #FFFFFF;
+    border-radius: 8px;
+}
