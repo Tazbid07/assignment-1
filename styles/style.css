@@ -3,15 +3,16 @@
 }
 .header{
     background-image: url(../images/banner/banner1.png);
-    width: 1600px;
-    height: 808px;
+    height: 1200px;
     text-align: right;
+    background-repeat: no-repeat;
+    background-size: 100%;
 }
 .head-title{
     font-weight: 700;
     font-size: 65px;
     color: #151414;
-    padding-top: 216px;
+    padding-top: 333px;
     padding-right: 230px;
 }
 .head-description{
@@ -34,6 +35,7 @@
     display: flex;
     justify-content: space-evenly;
     padding-right: 230px;
+    padding-left: 230px;
 }
 ul{
     list-style: none;
@@ -155,4 +157,28 @@ li{
     padding:22px10px;
     border: 1px solid #FFFFFF;
     border-radius: 8px;
+}
+.own-part{
+    background-image: url(../images/pp.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center center;
+    background-attachment: fixed;
+    height: 808px;
+}
+.own-div{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    padding: 240px;
+    
+}
+.ownpara-1{
+    font-weight: 700;
+    font-size: 40px;
+}
+.ownpara-2{
+    font-weight: 400;
+    font-size: 25px;
+    color: #444343;
 }
